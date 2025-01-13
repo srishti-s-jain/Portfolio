@@ -47,13 +47,13 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   #contact,
   footer {
     height: 40vh;
   }
   #profile {
-    height: 83vh;
+    height: 100vh;
     margin-bottom: 0;
   }
   article {
@@ -87,7 +87,7 @@
     text-align: center;
   }
   .section__pic-container {
-    width: 500 px;
+    width: Auto;
     height: 500vw;
     justify-content: center;
   }
