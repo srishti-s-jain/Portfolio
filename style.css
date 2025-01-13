@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(62, 62, 62);
 }
 
 /* TRANSITION */
@@ -182,7 +182,7 @@ section {
 }
 
 .section__text p {
-  font-weight: 600;
+  font-weight: 300;
 }
 
 .section__text__p1 {
