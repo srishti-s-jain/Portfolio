@@ -171,8 +171,8 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 600px;
-  width: 600px;
+  height: 500px;
+  width: 500px;
   margin: auto 0;
 }
 
@@ -309,14 +309,14 @@ section {
 }
 
 .section__pic-container {
-  height: 600px;
-  width: 600px;
+  height: 500px;
+  width: 500px;
   margin: auto 0;
 }
 
 /* EXPERIENCE SECTION */
 
-#experience {
+#skills {
   position: relative;
 }
 
